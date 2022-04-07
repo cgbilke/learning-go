@@ -1,4 +1,6 @@
-This level of the project denotes a few different folders which may contain code snippets, scripts, or even contained Go projects. See list below for notes: 
+# go-basics
 
-go-basics: 
-  This folder contains a series of code snippets and scripts intended for picking up and learning the basic syntax, libraries, etc... of the language. 
+Go basics folder contains many snippets and scripts containing basic use cases of the language
+and how-to's for the basic features and syntax of the language with some notes taken throughout. 
+
+hello-world.go: Hello World program with some notes about Go runtime and execution.
